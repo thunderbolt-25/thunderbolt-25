@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS cloud**
 
-- 👨‍💻 All of my projects are available at [https://phpvoting.epizy.com/](https://phpvoting.epizy.com/)
+- 👨‍💻 All of my projects are available at [https://phpvoting.epizy.com/](https://www.anurag4work.netlify.com)
 
 - 💬 Ask me about **HTML,SQL,php,C++,C#**
 
