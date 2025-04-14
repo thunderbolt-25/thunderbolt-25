@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS cloud**
 
-- 👨‍💻 All of my projects are available at [My E-portfolio](https://www.anuragdeveloper.netlify.com)
+- 👨‍💻 All of my projects are available at [anuragdev.com](https://www.anuragdev.com)
 
 - 💬 Ask me about **HTML,SQL,php,C++,C#**
 
